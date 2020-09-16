@@ -1,0 +1,19 @@
+Contoh 3
+
+Diketahui sebuah mobil sudah menempuh perjalanan sejauh;
+10 KM
+
+Algoritma hitung jauh perjalanan mobil tersebut?
+
+Algoritma:
+step 1 Mendeklarasikan jarak (KM), jarak (M)
+step 2 Masukkan sejauh mana mobil sudah melaju = 10 KM
+step 3 Menghitung jauh mobil sudah melaju = 10(KM)*1000
+step 4 Menampilkan hasil dalam bentuk (M)
+
+Pseudocode:
+deklarasi
+var jarak
+jarak(KM) = 10
+jarak(M)  = 10(KM)*1000
+write(jarak(M))     
